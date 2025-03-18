@@ -23,7 +23,6 @@ The project contains the following files:
 
 ### 3. Recommendations & Strategy
 - Provided a structured lead prioritization strategy for the sales team.
-- Suggested best call timings, multi-touch follow-ups, and urgency-based incentives to maximize conversions.
 
 ## How to Use the Notebook 
 1. Open the notebook in **Jupyter Notebook** or **Google Colab**.
