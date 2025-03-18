@@ -25,7 +25,7 @@ The project contains the following files:
 - Provided a structured lead prioritization strategy for the sales team.
 - Suggested best call timings, multi-touch follow-ups, and urgency-based incentives to maximize conversions.
 
-## How to Use the Notebook (`Final - Logistic Regression Model - Education - Group case study.ipynb`)
+## How to Use the Notebook 
 1. Open the notebook in **Jupyter Notebook** or **Google Colab**.
 2. Run the data preprocessing steps to clean and transform the dataset.
 3. Execute the Logistic Regression model training and evaluation.
